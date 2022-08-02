@@ -1,3 +1,6 @@
+// Question from leetcode and coding ninjas:-
+we have to return length of longest chain of element:-
+
 import java.util.HashSet;
 import java.util.*;
 class Solution {
